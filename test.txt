@@ -1,0 +1,6 @@
+1. requirement 
+2. design
+3. development 
+4. testing 
+5. release
+6. support 
